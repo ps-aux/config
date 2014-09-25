@@ -1,0 +1,10 @@
+Vrapper - Vim for Eclipe
+Eclipse Color Theme - editors color theme
+Eclipse XML Editors and Tools - xml tools
+Grep console
+
+optional:
+PyDev for Eclipse - plugin for python
+Aptana studio - web IDE (had some problems with it)
+
+
