@@ -15,9 +15,7 @@
 /instance/org.eclipse.ui.editors/spacesForTabs=true
 @org.eclipse.ui.trace=1.0.200.v20140424-1951
 /instance/org.eclipse.cdt.ui/asm_label=192,182,168
-/instance/org.eclipse.pde.core/workspace_target_handle=local\:1405271131552.target
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
-/instance/com.google.appengine.eclipse.core/sdkSetXml=PHNka3MgZGVmYXVsdFNkaz0iQXBwIEVuZ2luZSI+Cgk8c2RrIG5hbWU9IkFwcCBFbmdpbmUiIGxvY2F0aW9uPSIvb3B0L2VjbGlwc2UvbHVuYS9wbHVnaW5zL2NvbS5nb29nbGUuYXBwZW5naW5lLmVjbGlwc2Uuc2RrYnVuZGxlXzEuOS44L2FwcGVuZ2luZS1qYXZhLXNkay0xLjkuOC8iIHZlcnNpb249IjEuOS44Ii8+Cjwvc2Rrcz4K
 /instance/com.powerflasher.fdt.ui/AS_DEFAULT_color=192,182,168
 /instance/ccw.core/ccw.preferences.editor_color.char.bold=false
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.NamespaceModifier_enabled=true
@@ -71,7 +69,6 @@
 /instance/org.eclipse.cdt.ui/org.eclipse.cdt.internal.ui.text.doctools.single=179,181,175
 /instance/org.cfeclipse.cfml/htmFormTagColor=161,154,131
 /instance/org.sweetlemonade.eclipse.json/colorMatchBracketEnabled=true
-/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.google.gwt.user.client.ui.Composite"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"/></lhs><lhs name\="com.google.gwt.user.client.ui.IsRenderable"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"/></lhs><lhs name\="com.google.gwt.user.client.ui.Widget"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"/></lhs><lhs name\="com.google.gwt.user.client.EventListener"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"/></lhs><lhs name\="com.google.gwt.event.logical.shared.HasAttachHandlers"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"/></lhs><lhs name\="com.google.gwt.user.client.ui.IsWidget"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"/></lhs><lhs name\="com.google.gwt.event.shared.HasHandlers"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"/></lhs><lhs name\="com.google.gwt.user.client.ui.UIObject"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"/></lhs><lhs name\="com.google.gwt.user.client.ui.HasVisibility"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"/></lhs><lhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.view.LoginInfoPane"/></lhs><lhs name\="com.google.gwt.animation.client.Animation"><rhs name\="bbc.juniperus.mypage.organizer.gwt.client.extension.FadeAnimation"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="bbc.juniperus.mypage.organizer.gwt.shared.NoSessionException"/></lhs><lhs name\="bbc.juniperus.jee.mypage.OrganizerEventDaoTest"><rhs name\="bbc.juniperus.jee.mypage.OrganizerEventDaoTest"/></lhs><lhs name\="javax.mail.Address"><rhs name\="javax.mail.internet.InternetAddress"/></lhs></history>
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.localVariable.enabled=true
 /instance/org.eclipse.wst.sse.ui/useAnnotationsPrefPage=true
@@ -190,7 +187,6 @@
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLComment_enabled=true
 /instance/org.python.pydev/PARENS_STYLE=0
 /instance/org.eclipse.pde.ui/editor.color.header_key=163,132,116
-/instance/org.eclipse.wst.server.core/runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime gae-sdk-name\="App Engine" gae-sdk-version\="1.9.8" id\="Google App Engine" location\="/opt/eclipse/luna/plugins/com.google.appengine.eclipse.sdkbundle_1.9.8/appengine-java-sdk-1.9.8/" name\="Google App Engine" runtime-type-id\="com.google.appengine.runtime.id1" timestamp\="0"/>\n</runtimes>\n
 /instance/ccw.core/ccw.preferences.editor_color.meta=128,128,128
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.ConstantHighlighting.color=\#93A2CC
 @org.eclipse.wst.xml.ui=1.1.500.v201403122203
@@ -1331,7 +1327,6 @@ file_export_version=3.0
 /instance/org.eclipse.dltk.ruby.ui/DLTK_doc.topic=147,147,204
 /instance/org.eclipse.pde.ui/editor.color.instr=223,190,149
 /instance/org.eclipse.cdt.ui/pp_default=192,182,168
-/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/home/junip/workspace/java/j2ee\n/home/junip/coding/workspace/cpp\n/home/junip/workspace/java/swing
 /instance/org.eclipse.angularjs.ui/directiveParameterName=\#A19A83 | null | null | null | null | null
 /instance/jsonedit-core/nullColor=192,182,168
 /instance/org.eclipse.cdt.ui/c_operators=240,239,208
